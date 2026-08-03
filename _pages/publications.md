@@ -5,6 +5,7 @@ title: research
 description: 
 nav: true
 nav_order: 2
+class: publications
 ---
 
 {% bibliography -f papers %}
